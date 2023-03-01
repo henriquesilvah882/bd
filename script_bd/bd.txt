@@ -1,0 +1,1 @@
+"Codigo"|"nome"|"telefone"|"data_nascimento"|"sexo"|"estado"|"cidade"|"email";
